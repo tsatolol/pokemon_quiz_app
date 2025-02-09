@@ -28,12 +28,13 @@
 
 - Dify
     - プログラミングの知識がなくても簡単にアプリ開発ができるノーコード自動化 AI ツールです。
-    - 有料プランがあります。
-    - [公式ページ](https://dify.ai/pricing)
+    - Web アプリ版。[公式ページ](https://dify.ai/pricing)
+    - ローカル版。[GitHub ページ](https://github.com/langgenius/dify)
 - OpenAI API
     - OpenAI が提供するモデルを利用できます。
-    - 有料プランがあります。
-    - [公式ページ](https://openai.com/api/pricing/)
+    - 有料プランがあります。[公式ページ](https://openai.com/api/pricing/)
+
+Dify は2025年2月2日時点の main ブランチを利用したローカル版で動作確認をしました。
 
 ### デプロイ
 ここでは Dify の公式ページからデプロイする方法を紹介します。
